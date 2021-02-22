@@ -35,3 +35,5 @@
 [vscode]: https://code.visualstudio.com/download
 [webdevplaylist]: https://www.youtube.com/RohitRamtirthe?sub_confirmation=1
 
+[![Rohit-MyRG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-MyRG)](https://github.com/Rohit-MyRG/github-readme-stats)
+
