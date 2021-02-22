@@ -35,7 +35,7 @@
 [vscode]: https://code.visualstudio.com/download
 [webdevplaylist]: https://www.youtube.com/RohitRamtirthe?sub_confirmation=1
 
-<br/>
+<br/><br/>
 
 [![SLoharkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLoharkar)](https://github.com/SLoharkar/github-readme-stats)
 
