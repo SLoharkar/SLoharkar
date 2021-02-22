@@ -33,7 +33,6 @@
 [java]: https://www.javatpoint.com/java-tutorial
 [dotnet]: https://www.javatpoint.com/net-framework
 [vscode]: https://code.visualstudio.com/download
-[webdevplaylist]: https://www.youtube.com/RohitRamtirthe?sub_confirmation=1
 
 <br/><br/>
 
