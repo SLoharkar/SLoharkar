@@ -13,3 +13,4 @@
 * ♨️ Java
 * 🌐 HTML, CSS, JS
 * 🗄️ SQL, MySQL
+* :script Shell 
