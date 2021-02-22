@@ -13,7 +13,7 @@
 * ♨️ Java
 * 🌐 HTML, CSS, JS
 * 🗄️ SQL, MySQL
-* 💻 Shell Script and Bash
+* 💻 Shell Script and Command Prompt
 
 ## Operating System 
 
