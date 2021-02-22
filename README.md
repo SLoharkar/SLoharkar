@@ -14,7 +14,9 @@
 * 🌐 HTML, CSS, JS
 * 🗄️ SQL, MySQL
 * 💻 Shell Script and Bash
-* 🎮 Linux, Windows, Red Hat and Parrot os 
+
+## Operating System 
+<img align="left" alt="Terminal" width="26px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png"  />
 
 ## Languages and Tools
 
