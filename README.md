@@ -37,5 +37,5 @@
 
 <br/><br/>
 
-[![SLoharkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLoharkar)](https://github.com/SLoharkar/github-readme-stats)
+[![SLoharkar GitHub stats](https://github-readme-stats.vercel.app/api?username=SLoharkar)](https://github.com/SLoharkar/github-readme-stats)
 
