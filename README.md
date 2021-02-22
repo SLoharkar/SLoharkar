@@ -17,12 +17,12 @@
 
 ## Operating System 
 
-<img align="left" alt="Windows" width="200px" height="120px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png"  />
-<img align="left" alt="Kali Linux" width="200px" height="120px" src="https://ih1.redbubble.net/image.746085651.7876/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg"  />
-<img align="left" alt="Parrot Linux" width="200px" height="120px" src="https://docs.parrotlinux.org/img/macaw-poly.jpg"  />
-<img align="left" alt="Red Hat" width="200px" height="120px" src="https://www.redhat.com/cms/managed-files/Brand_Standars-Red_Hat-_color_on-white.svg?itok=TCpUwj8z"  />
+<img align="left" alt="Windows" width="180px" height="100px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png"  />
+<img align="left" alt="Kali Linux" width="180px" height="100px" src="https://ih1.redbubble.net/image.746085651.7876/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg"  />
+<img align="left" alt="Parrot Linux" width="180px" height="100px" src="https://docs.parrotlinux.org/img/macaw-poly.jpg"  />
+<img align="left" alt="Red Hat" width="180px" height="100px" src="https://www.redhat.com/cms/managed-files/Brand_Standars-Red_Hat-_color_on-white.svg?itok=TCpUwj8z"  />
 
-<br><br><br>
+<br><br><br><br><br><br>
 ## Languages and Tools
 
 [<img align="left" alt="Java" width="26px" src="https://github.com/Rohit-MyRG/Rohit-MyRG/blob/main/java-43-569305.webp" title="Java" />][java]
