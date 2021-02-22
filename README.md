@@ -2,7 +2,7 @@
 
 ## I'm a Student, Software Developer and also a Ethical Hacker !!
 
-- 🔭 I'm currently working on shell script as a self-employed person
+- 🔭 I'm currently working on script as a self-employed person
 - 🌱 I'm currently learning about new technology and self discovery
 - 👯 I'm looking to collaborate with technical freelancers
 - 🥅 2021 Goals: Contribute more to Open Source projects and Interns
@@ -13,4 +13,5 @@
 * ♨️ Java
 * 🌐 HTML, CSS, JS
 * 🗄️ SQL, MySQL
-*
+* 💻 Shell Script and Bash
+* 🎮 Linux, Windows, Red Hat and Parrot os 
