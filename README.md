@@ -16,12 +16,12 @@
 * 💻 Shell Script and Command Prompt
 
 ## Operating System      
-[<meta name="viewport" content="width=device-width, initial-scale=1.0">]
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 [<style>]
-[img {
+img {
   max-width: 100%;
   height: auto;
-}]
+}
   [</style>]
   
   
