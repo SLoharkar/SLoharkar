@@ -15,8 +15,18 @@
 * 🗄️ SQL, MySQL
 * 💻 Shell Script and Command Prompt
 
-## Operating System 
-
+## Operating System      
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+  
 [<img align="left" alt="Windows" width="180px" height="100px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png"  />][windows]
 [<img align="left" alt="Kali Linux" width="180px" height="100px" src="https://www.edureka.co/blog/wp-content/uploads/2019/01/Kali-logo-Ethical-Hacking-using-Kali-Linux-Edureka.jpg"  />][kali]
 [<img align="left" alt="Parrot Linux" width="180px" height="100px" src="https://docs.parrotlinux.org/img/macaw-poly.jpg"  />][parrot]
