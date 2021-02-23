@@ -16,14 +16,12 @@
 * 💻 Shell Script and Command Prompt
 
 ## Operating System      
-[style type="text/css">]
-img { max-width:100%;}
-[</style>]
-
+[<p align="left">]
 [<img align="left" alt="Windows" width="200px" height="100px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png" srcset="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png 50w"  />][windows]
 [<img align="left" alt="Kali Linux" width="200px" height="100px" src="https://www.edureka.co/blog/wp-content/uploads/2019/01/Kali-logo-Ethical-Hacking-using-Kali-Linux-Edureka.jpg"  />][kali]
 [<img align="left" alt="Parrot Linux" width="200px" height="100px" src="https://docs.parrotlinux.org/img/macaw-poly.jpg"  />][parrot]
 [<img align="left" alt="Red Hat" width="200px" height="100px" src="https://www.redhat.com/cms/managed-files/Brand_Standars-Red_Hat-_color_on-black.svg?itok=wPCF1-sX"  />][red hat]
+  [</p>]
   
 [windows]: https://www.microsoft.com/en-in/windows
 [kali]: https://www.kali.org/
