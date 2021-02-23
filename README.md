@@ -17,7 +17,7 @@
 
 ## Operating System      
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-[<style> img { max-width: 100%; height: auto; }]  
+[<style>] img { max-width: 100%; height: auto; }]  
   
 [<img align="left" alt="Windows" width="200px" height="100px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png"  />][windows]
 [<img align="left" alt="Kali Linux" width="200px" height="100px" src="https://www.edureka.co/blog/wp-content/uploads/2019/01/Kali-logo-Ethical-Hacking-using-Kali-Linux-Edureka.jpg"  />][kali]
