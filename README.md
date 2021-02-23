@@ -25,7 +25,7 @@
 [kali]: https://www.kali.org/
 [parrot]: https://www.parrotsec.org/
 [red hat]: https://www.redhat.com/en
-<br><br><br>
+<br><br>
 ## Languages and Tools
 
 [<img align="left" alt="Java" width="26px" src="https://github.com/Rohit-MyRG/Rohit-MyRG/blob/main/java-43-569305.webp" title="Java" />][java]
