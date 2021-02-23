@@ -16,18 +16,11 @@
 * 💻 Shell Script and Command Prompt
 
 ## Operating System      
-[<meta name="viewport" content="width=device-width, initial-scale=1.0">]
-[<style>]
-img {
-  max-width: 100%;
-  height: auto;
-}
-[</style>]
- 
-[<img align="left" alt="Windows" width="180px" height="100px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png"  />][windows]
-[<img align="left" alt="Kali Linux" width="180px" height="100px" src="https://www.edureka.co/blog/wp-content/uploads/2019/01/Kali-logo-Ethical-Hacking-using-Kali-Linux-Edureka.jpg"  />][kali]
-[<img align="left" alt="Parrot Linux" width="180px" height="100px" src="https://docs.parrotlinux.org/img/macaw-poly.jpg"  />][parrot]
-[<img align="left" alt="Red Hat" width="180px" height="100px" src="https://www.redhat.com/cms/managed-files/Brand_Standars-Red_Hat-_color_on-black.svg?itok=wPCF1-sX"  />][red hat]
+
+[<img align="left" alt="Windows" width="50px" height="25px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png"  />][windows]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="left" alt="Kali Linux" width="50px" height="25px" src="https://www.edureka.co/blog/wp-content/uploads/2019/01/Kali-logo-Ethical-Hacking-using-Kali-Linux-Edureka.jpg"  />][kali]
+[<img align="left" alt="Parrot Linux" width="50px" height="25px" src="https://docs.parrotlinux.org/img/macaw-poly.jpg"  />][parrot]
+[<img align="left" alt="Red Hat" width="50px" height="25px" src="https://www.redhat.com/cms/managed-files/Brand_Standars-Red_Hat-_color_on-black.svg?itok=wPCF1-sX"  />][red hat]
 
 [windows]: https://www.microsoft.com/en-in/windows
 [kali]: https://www.kali.org/
