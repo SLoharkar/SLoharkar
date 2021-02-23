@@ -16,13 +16,13 @@
 * 💻 Shell Script and Command Prompt
 
 ## Operating System      
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8"
+[<!doctype html>]
+[<html>]
+  [<head>]
+    [<meta charset="utf-8"
           name="viewport"
-          content= "width=device-width,initial-scale=1.0">
-  </head>
+          content= "width=device-width,initial-scale=1.0">]
+  [</head>]
 [<img align="left" alt="Windows" width="200px" height="100px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png" srcset="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png 50w"  />][windows]
 [<img align="left" alt="Kali Linux" width="200px" height="100px" src="https://www.edureka.co/blog/wp-content/uploads/2019/01/Kali-logo-Ethical-Hacking-using-Kali-Linux-Edureka.jpg"  />][kali]
 [<img align="left" alt="Parrot Linux" width="200px" height="100px" src="https://docs.parrotlinux.org/img/macaw-poly.jpg"  />][parrot]
