@@ -51,5 +51,6 @@
 
 <br/><br/>
 
-<!--[![SLoharkar GitHub stats](https://github-readme-stats.vercel.app/api?username=SLoharkar)](https://github.com/SLoharkar/github-readme-stats)
--->
+![SLoharkar gitHub stats](https://github-readme-stats.vercel.app/api?username=sloharkar)
+
+
