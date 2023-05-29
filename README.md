@@ -1,14 +1,18 @@
 ### Hi there, I'm Shubham 👋
 
-## I'm a Student, Software Developer and also a Ethical Hacker !!
+## I'm a Student, Software Developer and also a Security Analyst !!
 
-- 🔭 I'm currently working on script as a self-employed person
+- 🔭 I'm currently working on script as a self-employe
 - 🌱 I'm currently learning about new technology and self discovery
 - 👯 I'm looking to collaborate with technical freelancers
-- 🥅 2021 Goals: Contribute more to Open Source projects and Interns
-- ⚡ Fun fact: I love break coding, error, silence and nature
+- 🥅 Goals: Contribute more to Open Source projects and Interns
+- ⚡ Fun fact: I like to break coding, error, with silence nature
 
-## Skills and Experience
+## Experience
+<img align="left" alt="MFS" width="20px" src="Icons/mfs.jpg" /> System Administrator &nbsp; - &nbsp;<b> Magicflare Software Services LLP </b>&nbsp; - &nbsp; (Mar 2022 – Mar 2023) <br></br>
+<img align="left" alt="iant" width="20px" src="Icons/iant.jpg" /> Technical Trainer &nbsp; - &nbsp;<b> Institute of Advance Network Technology </b>&nbsp; - &nbsp; (Apr 2021 - Nov 2021) <br>
+
+## Skills
 * 💻 C, C++
 * ♨️ Java
 * 🌐 HTML, CSS, JS
