@@ -18,7 +18,7 @@
 ## Operating System      
 [<img align="left" alt="Windows" width="50px" height="33px" src="https://download.logo.wine/logo/Windows_10/Windows_10-Logo.wine.png" />][windows]
 [<img align="left" alt="Kali Linux" width="40px" height="40px" src="https://github.com/Rohit-MyRG/Rohit-MyRG/blob/main/Kali.png"  />][kali]
-[<img align="left" alt="Parrot Linux" width="50px" height="33px" src="https://docs.parrotlinux.org/img/macaw-poly.jpg"  />][parrot]
+[<img align="left" alt="Parrot Linux" width="50px" height="33px" src=Icons/Parrot_Linux.jpg  />][parrot]
 [<img align="left" alt="Red Hat" width="50px" height="33px" src="https://www.redhat.com/cms/managed-files/Brand_Standars-Red_Hat-_color_on-black.svg?itok=wPCF1-sX"  />][red hat]
   
 [windows]: https://www.microsoft.com/en-in/windows
@@ -51,5 +51,5 @@
 
 <br/><br/>
 
-[![SLoharkar GitHub stats](https://github-readme-stats.vercel.app/api?username=SLoharkar)](https://github.com/SLoharkar/github-readme-stats)
-
+<!--[![SLoharkar GitHub stats](https://github-readme-stats.vercel.app/api?username=SLoharkar)](https://github.com/SLoharkar/github-readme-stats)
+-->
