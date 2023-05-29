@@ -17,10 +17,10 @@
 
 ## Operating System    
 
-[<img align="left" alt="Windows" width="50px" height="35px" src="Icons/Windows.png" />][windows]
-[<img align="left" alt="Kali Linux" width="50px" height="35px" src="Icons/Kali Linux.png"  />][kali]
-[<img align="left" alt="Parrot Linux" width="50px" height="35px" src="Icons/Parrot_Linux.jpg"  />][parrot]
-[<img align="left" alt="Red Hat" width="50px" height="35px" src="Icons/Red Hat Linux.png"  />][red hat]
+[<img align="left" alt="Windows" width="30px" src="Icons/Windows.png" title="Windows 10"/>][windows]
+[<img align="left" alt="Kali Linux" width="40px" src="Icons/Kali Linux.png" title="Kali Linux" />][kali]
+[<img align="left" alt="Parrot Linux" width="40px" src="Icons/Parrot_Linux.jpg" title="Parrot Linux" />][parrot]
+[<img align="left" alt="Red Hat" width="40px" src="Icons/Red Hat Linux.png" title="Red Hat" />][red hat]
 
 
 [windows]: https://www.microsoft.com/en-in/windows
@@ -31,25 +31,19 @@
 
 ## Languages and Tools
 
-[<img align="left" alt="Java" width="26px" src="https://github.com/Rohit-MyRG/Rohit-MyRG/blob/main/java-43-569305.webp" title="Java" />][java]
-[<img align="left" alt=".NET" width="26px" src="https://github.com/Rohit-MyRG/Rohit-MyRG/blob/main/microsoft-dot-net-1-1175179.webp" title=".NET" />][dotnet]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" />][webdevplaylist1]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"  />][webdevplaylist2]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL"  />][webdevplaylist3]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL" />][webdevplaylist4]
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" title="GitHub" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  />
+[<img align="left" alt="Java" width="26px" src="Icons/java.png" title="Java" />][java]
+[<img align="left" alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="Icons/css.png" title="CSS3" />][webdevplaylist1]
+[<img align="left" alt="JavaScript" width="26px" src="Icons/javascript.png" title="JavaScript"  />][webdevplaylist2]
+[<img align="left" alt="MySQL" width="26px" src="Icons/mysql.png" title="MySQL" />][webdevplaylist4]
+<img align="left" alt="Git" width="26px" src="Icons/git.png" title="Git" />
+<img align="left" alt="GitHub" width="26px" src="Icons/github.png" title="GitHub" />
+<img align="left" alt="Terminal" width="26px" src="Icons/terminal.png"  />
 
 [java]: https://www.javatpoint.com/java-tutorial
-[dotnet]: https://www.javatpoint.com/net-framework
-[vscode]: https://code.visualstudio.com/download
 [webdevplaylist]: https://www.w3schools.com/html/
 [webdevplaylist1]: https://www.w3schools.com/css/default.asp
 [webdevplaylist2]: https://www.w3schools.com/js/default.asp
-[webdevplaylist3]: https://www.w3schools.com/sql/default.asp
 [webdevplaylist4]: https://www.tutorialspoint.com/mysql/index.htm
 
 <br/><br/>
