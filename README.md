@@ -18,9 +18,9 @@
 ## Operating System    
 
 [<img align="left" alt="Windows" width="30px" src="Icons/Windows.png" title="Windows 10"/>][windows]
-[<img align="left" alt="Kali Linux" width="40px" src="Icons/Kali Linux.png" title="Kali Linux" />][kali]
-[<img align="left" alt="Parrot Linux" width="40px" src="Icons/Parrot_Linux.jpg" title="Parrot Linux" />][parrot]
-[<img align="left" alt="Red Hat" width="40px" src="Icons/Red Hat Linux.png" title="Red Hat" />][red hat]
+[<img align="left" alt="Kali Linux" width="50px" src="Icons/Kali Linux.png" title="Kali Linux" />][kali]
+[<img align="left" alt="Parrot Linux" width="30px" src="Icons/Parrot_Linux.jpg" title="Parrot Linux" />][parrot]
+[<img align="left" alt="Red Hat" width="50px" src="Icons/Red Hat Linux.png" title="Red Hat" />][red hat]
 
 
 [windows]: https://www.microsoft.com/en-in/windows
@@ -36,9 +36,9 @@
 [<img align="left" alt="CSS3" width="26px" src="Icons/css.png" title="CSS3" />][webdevplaylist1]
 [<img align="left" alt="JavaScript" width="26px" src="Icons/javascript.png" title="JavaScript"  />][webdevplaylist2]
 [<img align="left" alt="MySQL" width="26px" src="Icons/mysql.png" title="MySQL" />][webdevplaylist4]
+<img align="left" alt="Terminal" width="26px" src="Icons/terminal.png"  />
 <img align="left" alt="Git" width="26px" src="Icons/git.png" title="Git" />
 <img align="left" alt="GitHub" width="26px" src="Icons/github.png" title="GitHub" />
-<img align="left" alt="Terminal" width="26px" src="Icons/terminal.png"  />
 
 [java]: https://www.javatpoint.com/java-tutorial
 [webdevplaylist]: https://www.w3schools.com/html/
