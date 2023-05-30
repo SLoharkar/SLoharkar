@@ -2,16 +2,13 @@
 
 <h3 align="center">I'm a Student, Software Developer and also a Security Analyst !!</h3>
 
-- 🔭 I'm currently working on script as a self-employe
-- 🌱 I'm currently learning about Java Language and self discovery
-- 👯 I'm looking to collaborate with technical freelancers
-- 🥅 Goals: Contribute more to Open Source projects and Interns
-- ⚡ Fun fact: I like to break coding, error, with silence nature
+<img align="right" alt="coding" width="400" src="Icons/coding.gif" />
+
 
 <h3 align="left">Experience</h3>
 <p align="left">
-<img align="left" alt="MFS" width="20px" src="Icons/mfs.jpg" /> Magicflare Software Services LLP 👨‍💻 System Administrator ⌛ (Mar 2022 – Mar 2023) <br></br>
-<img align="left" alt="iant" width="20px" src="Icons/iant.jpg" /> Institute of Advance Network Technology 👨‍🏫 Technical Trainer ⌛ (Apr 2021 - Nov 2021) <br></br>
+<img align="left" alt="MFS" width="20px" src="Icons/mfs.jpg" /> Magicflare Software Services LLP <br> 👨‍💻 &nbsp;&nbsp; System Administrator <br> ⌛ &nbsp; &nbsp;  Mar 2022 – Mar 2023 <br></br>
+<img align="left" alt="iant" width="20px" src="Icons/iant.jpg" /> Institute of Advance Network Technology <br> 👨‍🏫 &nbsp;&nbsp; Technical Trainer <br> ⌛ &nbsp; &nbsp;  Apr 2021 - Nov 2021 <br></br>
 </p>
 
 ## Skills
@@ -55,10 +52,11 @@
 <br/><br/>
 
 <!--![SLoharkar gitHub stats](https://github-readme-stats.vercel.app/api?username=sloharkar)-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sloharkar&show_icons=true&locale=en&layout=compact" alt="sloharkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sloharkar&show_icons=true&locale=en" alt="sloharkar" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sloharkar&show_icons=true&locale=en" alt="sloharkar" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sloharkar&show_icons=true&locale=en&layout=compact" alt="sloharkar" /></p>
 
-
+<br></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sloharkar&label=Profile%20views&color=0e75b6&style=flat" alt="sloharkar" /> </p>
 
