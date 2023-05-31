@@ -55,9 +55,11 @@
 
 <!--![SLoharkar gitHub stats](https://github-readme-stats.vercel.app/api?username=sloharkar)-->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sloharkar&show_icons=true&locale=en" alt="sloharkar" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sloharkar&&show_icons=true&locale=en" alt="sloharkar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sloharkar&show_icons=true&locale=en&layout=compact" alt="sloharkar" /></p>
+
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sloharkar&show_icons=true&locale=en&layout=compact" alt="sloharkar" /></p>
+
 
 <br></br>
 <h3 align="left">Connect with me:</h3>    
@@ -65,6 +67,7 @@
 <a href="https://www.linkedin.com/in/shubham-l-a8b0a91b1/" target="blank"><img align="left" alt="linkedin" width="50px" src="Icons/linkedin.png" title="linkedin" /></a>
 <a href="https://twitter.com/SLoharkar89" target="blank"><img align="left" alt="twitter" width="50px" src="Icons/twitter.png" title="twitter" /></a>
 </p>
+
 
 
 </br><br></br>
