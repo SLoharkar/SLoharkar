@@ -64,8 +64,8 @@
 <br></br>
 <h3 align="left">Connect with me:</h3>    
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-l-a8b0a91b1/" target="blank"><img align="left" alt="linkedin" width="50px" src="Icons/linkedin.png" title="linkedin" /></a>
-<a href="https://twitter.com/SLoharkar89" target="blank"><img align="left" alt="twitter" width="50px" src="Icons/twitter.png" title="twitter" /></a>
+<a href="https://www.linkedin.com/in/sloharkar" target="_blank"><img align="left" alt="linkedin" width="50px" src="Icons/linkedin.png" title="linkedin" /></a>
+<a href="https://twitter.com/SLoharkar89" target="_blank"><img align="left" alt="twitter" width="50px" src="Icons/twitter.png" title="twitter" /></a>
 </p>
 
 
