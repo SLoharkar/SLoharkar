@@ -22,7 +22,10 @@
 <h3 align="left">Backend Languages</h3>    
 <p align="left">
 <a href="https://www.javatpoint.com/java-tutorial" target="blank"><img align="left" alt="Java" width="26px" src="Icons/java.png" title="Java" /></a>
+<a href="https://www.javatpoint.com/spring-boot-tutorial" target="blank"><img align="left" alt="Spring Boot" width="26px" src="Icons/spring.png" title="Spring Boot" /></a>  
+<a href="https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html" target="blank"><img align="left" alt="Thymeleaf Template" width="26px" src="Icons/thymleaf.png" title="Thymeleaf Template" /></a>  
 <a href="https://www.tutorialspoint.com/mysql/index.htm" target="blank"><img align="left" alt="MySQL" width="26px" src="Icons/mysql.png" title="MySQL" /></a>
+<a href="https://www.javatpoint.com/spring-boot-h2-database" target="blank"><img align="left" alt="H2" width="26px" src="Icons/h2.png" title="H2" /></a>  
 <a href="https://www.javatpoint.com/oracle-tutorial" target="blank"><img align="left" alt="Oracle" width="26px" src="Icons/oracle.png" title="Oracle" /></a>
 </p>
 
@@ -35,11 +38,15 @@
 
 </p>
 
+
 <br></br>
-<h3 align="left">Others Languages</h3>    
+<h3 align="left">Software Development Tools </h3>    
 <p align="left">
 <img align="left" alt="GitHub" width="26px" src="Icons/github.png" title="GitHub" />
+<img align="left" alt="Eclipse" width="26px" src="Icons/eclipse.png" title="Eclipse IDE For Java Developer" />
+  
 </p>
+
 
 <br></br>
 <h3 align="left">Operating System</h3>    
@@ -50,6 +57,7 @@
 <a href="https://www.redhat.com/en" target="blank"><img align="left" alt="Red Hat" width="50px" src="Icons/Red Hat Linux.png" title="Red Hat" />
 <a href="https://www.microsoft.com/en-in/windows" target="blank"><img align="left" alt="Windows" width="30px" src="Icons/Windows.png" title="Windows 10"/></a>
 </p>
+
 
 <br/><br/>
 
