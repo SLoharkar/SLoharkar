@@ -24,7 +24,7 @@
 <a href="https://www.javatpoint.com/java-tutorial" target="blank"><img align="left" alt="Java" width="26px" src="Icons/java.png" title="Java" /></a>
 <a href="https://www.javatpoint.com/spring-boot-tutorial" target="blank"><img align="left" alt="Spring Boot" width="26px" src="Icons/spring.png" title="Spring Boot" /></a>  
 <a href="https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html" target="blank"><img align="left" alt="Thymeleaf Template" width="26px" src="Icons/thymleaf.png" title="Thymeleaf Template" /></a>  
-<a href="https://www.tutorialspoint.com/mysql/index.htm" target="blank"><img align="left" alt="MySQL" width="26px" src="Icons/mysql.png" title="MySQL" /></a>
+<a href="https://www.tutorialspoint.com/mysql/index.htm" target="blank"><img align="left" alt="MySQL" width="40px" src="Icons/mysql.png" title="MySQL" /></a>
 <a href="https://www.javatpoint.com/spring-boot-h2-database" target="blank"><img align="left" alt="H2" width="26px" src="Icons/h2.png" title="H2" /></a>  
 <a href="https://www.javatpoint.com/oracle-tutorial" target="blank"><img align="left" alt="Oracle" width="26px" src="Icons/oracle.png" title="Oracle" /></a>
 </p>
