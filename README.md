@@ -43,9 +43,9 @@
 <h3 align="left">Software Development Tools </h3>    
 <p align="left">
 <img align="left" alt="GitHub" width="26px" src="Icons/github.png" title="GitHub" />
-<img align="left" alt="Eclipse" width="26px" src="Icons/eclipse.png" title="Eclipse IDE For Java Developer" />
 <img align="left" alt="Postman" width="26px" src="Icons/postman.png" title="Postman" />
-  
+<img align="left" alt="Eclipse" width="26px" src="Icons/eclipse.png" title="Eclipse IDE For Java Developer" />
+<img align="left" alt="VS Code" width="26px" src="Icons/vs-code.png" title="Visual Studio Code" />
 </p>
 
 
