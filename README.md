@@ -1,4 +1,3 @@
-Hello
 <h1 align="center">Hi 👋, I'm Shubham Loharkar </h1>
 
 <h3 align="center">I'm a Student, Software Developer and also a Security Analyst !!</h3>
