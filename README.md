@@ -5,12 +5,6 @@
 <img align="right" alt="coding" width="400" src="Icons/coding.gif" />
 
 
-<h3 align="left">Experience</h3>
-<p align="left">
-<img align="left" alt="MFS" width="20px" src="Icons/mfs.jpg" /> Magicflare Software Services LLP <br> 👨‍💻 &nbsp;&nbsp; System Administrator <br> 💼 &nbsp; &nbsp;  Mar 2022 – Mar 2023 <br></br>
-<img align="left" alt="iant" width="20px" src="Icons/iant.jpg" /> Institute of Advance Network Technology <br> 👨‍🏫 &nbsp;&nbsp; Technical Trainer <br> 💼 &nbsp; &nbsp;  Apr 2021 - Nov 2021 <br></br>
-</p>
-
 <h3 align="left">Frontend Languages</h3>    
 <p align="left">
 <a href="https://www.w3schools.com/html/" target="blank"><img align="left" alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" /></a>
