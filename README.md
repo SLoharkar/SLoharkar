@@ -2,8 +2,9 @@
 
 <h3 align="center">I'm a Student, Software Developer and also a Security Analyst !!</h3>
 
-<img align="right" alt="coding" width="400" src="Icons/coding.gif" />
-
+<div align="center">
+<img align="center" alt="coding" width="400" src="Icons/coding.gif" />
+</div>
 
 <h3 align="left">Frontend Languages</h3>    
 <p align="left">
