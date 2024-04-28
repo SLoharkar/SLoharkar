@@ -17,6 +17,7 @@
 <a href="https://www.javatpoint.com/java-tutorial" target="blank"><img align="left" alt="Java" width="26px" src="Icons/java.png" title="Java" /></a>
 <a href="https://www.javatpoint.com/spring-boot-tutorial" target="blank"><img align="left" alt="Spring Boot" width="26px" src="Icons/spring.png" title="Spring Boot" /></a>  
 <a href="https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html" target="blank"><img align="left" alt="Thymeleaf Template" width="26px" src="Icons/thymleaf.png" title="Thymeleaf Template" /></a>  
+<a href="https://www.w3schools.com/php/" target="blank"><img align="left" alt="PHP" width="26px" src="Icons/PHP.png" title="PHP" /></a>  
 <a href="https://www.tutorialspoint.com/mysql/index.htm" target="blank"><img align="left" alt="MySQL" width="40px" src="Icons/mysql.png" title="MySQL" /></a>
 <a href="https://www.javatpoint.com/spring-boot-h2-database" target="blank"><img align="left" alt="H2" width="26px" src="Icons/h2.png" title="H2" /></a>  
 <a href="https://www.javatpoint.com/oracle-tutorial" target="blank"><img align="left" alt="Oracle" width="26px" src="Icons/oracle.png" title="Oracle" /></a>
@@ -37,6 +38,7 @@
 <p align="left">
 <img align="left" alt="GitHub" width="26px" src="Icons/github.png" title="GitHub" />
 <img align="left" alt="Postman" width="26px" src="Icons/postman.png" title="Postman" />
+<img align="left" alt="Xampp" width="26px" src="Icons/Xampp.png" title="Xampp" />
 <img align="left" alt="Eclipse" width="26px" src="Icons/eclipse.png" title="Eclipse IDE For Java Developer" />
 <img align="left" alt="VS Code" width="26px" src="Icons/vs-code.png" title="Visual Studio Code" />
 </p>
