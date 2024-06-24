@@ -42,6 +42,7 @@
 <img align="left" alt="Xampp" width="26px" src="Icons/Xampp.png" title="Xampp" />
 <img align="left" alt="Eclipse" width="26px" src="Icons/eclipse.png" title="Eclipse IDE For Java Developer" />
 <img align="left" alt="VS Code" width="26px" src="Icons/vs-code.png" title="Visual Studio Code" />
+<img align="left" alt="Sublime Text" width="26px" src="Icons/Sublime Text.png" title="Sublime Text" />
 </p>
 
 
