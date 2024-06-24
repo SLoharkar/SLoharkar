@@ -56,17 +56,25 @@
 </p>
 
 
-<br/><br/>
+<br/><br/><br>
 
 <!--![SLoharkar gitHub stats](https://github-readme-stats.vercel.app/api?username=sloharkar)-->
 
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <!-- GitHub profile card -->
+    <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sloharkar&rank_icon=github&locale=en" alt="sloharkar" /></p>
+    <!-- Top languages -->
+    <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sloharkar&langs_count=10&show_icons=true&locale=en&layout=compact" alt="sloharkar" /></p>
+</div>
+
+
+<!-- Previous Settings
 <p>&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sloharkar&rank_icon=github&locale=en" alt="sloharkar" /></p>
 
-
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sloharkar&langs_count=10&show_icons=true&locale=en&layout=compact" alt="sloharkar" /></p>
+-->
 
-
-<br></br>
+<br>
 <h3 align="left">Connect with me:</h3>    
 <p align="left">
 <a href="https://www.linkedin.com/in/sloharkar" target="_blank"><img align="left" alt="linkedin" width="50px" src="Icons/linkedin.png" title="linkedin" /></a>
