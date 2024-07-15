@@ -7,7 +7,7 @@
 <h3 align="left">𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>
     <!--HTML5-->
     <a href="https://www.w3schools.com/html" target="blank">
-        <img alt="HTML5" width="40px" height="40px" src="Icons/HTML.png" title="HTML5" />
+        <img align="left" alt="HTML5" width="40px" height="40px" src="Icons/HTML.png" title="HTML5" />
     </a>
     <!--CSS3-->
     <a href="https://www.w3schools.com/css" target="blank">
