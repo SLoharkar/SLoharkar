@@ -50,6 +50,14 @@
 <br></br>
 
 <h3 align="left">𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔</h3>
+    <!--MongoDB-->
+    <a href="https://www.mongodb.com/" target="blank">
+        <img align="left" alt="MongoDB" width="40px" height="40px" src="Icons/MongoDB.png" title="MongoDB" />
+    </a>
+    <!--CouchBase-->
+    <a href="https://www.couchbase.com/" target="blank">
+        <img align="left" alt="CouchBase" width="40px" height="40px" src="Icons/CouchBase.png" title="CouchBase" />
+    </a>
     <!--MySQL-->
     <a href="https://www.tutorialspoint.com/mysql/index.htm" target="blank">
         <img align="left" alt="MySQL" width="40px" height="40px" src="Icons/Mysql.png" title="MySQL" />
