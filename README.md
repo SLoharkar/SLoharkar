@@ -4,11 +4,12 @@
 
 <div align="center"> <img align="center" alt="coding" width="400" src="Icons/coding.gif" /> </div>
 
-<h3 align="left">Frontend Languages</h3>    
+<h3 align="left">𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>    
 <p align="left">
-<a href="https://www.w3schools.com/html/" target="blank"><img align="left" alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" /></a>
-<a href="https://www.w3schools.com/css/default.asp" target="blank"><img align="left" alt="CSS3" width="26px" src="Icons/css.png" title="CSS3" /></a>
-<a href="https://www.w3schools.com/js/default.asp" target="blank"><img align="left" alt="JavaScript" width="26px" src="Icons/javascript.png" title="JavaScript"  /></a>
+HTML5 <a href="https://www.w3schools.com/html/" target="blank"><img align="left" alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" /></a>
+CSS <a href="https://www.w3schools.com/css/default.asp" target="blank"><img align="left" alt="CSS3" width="26px" src="Icons/css.png" title="CSS3" /></a>
+Bootstrap <a href="https://www.w3schools.com/css/default.asp" target="blank"><img align="left" alt="CSS3" width="26px" src="Icons/Bootstrap.png" title="CSS3" /></a>
+Javascript <a href="https://www.w3schools.com/js/default.asp" target="blank"><img align="left" alt="JavaScript" width="26px" src="Icons/javascript.png" title="JavaScript"  /></a>
 </p>
 
 <br></br>
