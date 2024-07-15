@@ -4,16 +4,40 @@
 
 <div align="center"> <img align="center" alt="coding" width="400" src="Icons/coding.gif" /> </div>
 
-<h3 align="left">𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>   
-<p align="left">
-    <a href="https://www.w3schools.com/html/" target="blank">
-        <img align="left" alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" />
-        <strong>HTML5</strong>
-    </a> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/default.asp" target="blank">
-        <img align="left" alt="CSS3" width="26px" src="Icons/css.png" title="CSS3" />
-        <strong>CSS</strong>
+<h3 align="left">𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>
+
+<span> <font size="90"> HTML5 </font> </span>
+<span> <font size="24"> HTML5 </font> </span>
+<span> <font size="24"> HTML5 </font> </span>
+
+<a href="https://www.w3schools.com/html/" target="blank" style="display: flex; align-items: center;">
+    <img alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" />
+</a>
+
+#### HTML5
+
+<a href="https://www.w3schools.com/html/" target="blank" style="display: flex; align-items: center;">
+    <img alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" />
+</a>
+
+#### HTML5
+
+<a href="https://www.w3schools.com/html/" target="blank" style="display: flex; align-items: center;">
+    <img alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" />
+</a>
+
+
+    ## HTML5
+    <a href="https://www.w3schools.com/html/" target="blank" style="display: flex; align-items: center;">
+        <img alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" />
+    </a>
+    <span style="margin-left: 8px; font-size: 1.5em;">HTML5</span>
+    <a href="https://www.w3schools.com/html/" target="blank" style="display: flex; align-items: center;">
+        <img alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" />
+    </a>
+    <span style="margin-left: 8px; font-size: 1.5em;">HTML5</span>
+    <a href="https://www.w3schools.com/html/" target="blank" style="display: flex; align-items: center;">
+        <img alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" />
     </a>
     
 <p align="left">
