@@ -4,7 +4,18 @@
 
 <div align="center"> <img align="center" alt="coding" width="400" src="Icons/coding.gif" /> </div>
 
-<h3 align="left">𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>    
+<h3 align="left">𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h3>   
+<p align="left">
+    <a href="https://www.w3schools.com/html/" target="blank">
+        <img align="left" alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" />
+        <strong>HTML5</strong>
+    </a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/css/default.asp" target="blank">
+        <img align="left" alt="CSS3" width="26px" src="Icons/css.png" title="CSS3" />
+        <strong>CSS</strong>
+    </a>
+    
 <p align="left">
 HTML5 <a href="https://www.w3schools.com/html/" target="blank"><img align="left" alt="HTML5" width="26px" src="Icons/html.png" title="HTML5" /></a>
 CSS <a href="https://www.w3schools.com/css/default.asp" target="blank"><img align="left" alt="CSS3" width="26px" src="Icons/css.png" title="CSS3" /></a>
