@@ -56,7 +56,7 @@
     </a>
     <!--CouchBase-->
     <a href="https://www.couchbase.com/" target="blank">
-        <img align="left" alt="CouchBase" width="40px" height="40px" src="Icons/CouchBase.png" title="CouchBase" />
+        <img align="left" alt="CouchBase" width="40px" height="40px" src="Icons/CouchBase_1.png" title="CouchBase" />
     </a>
     <!--MySQL-->
     <a href="https://www.tutorialspoint.com/mysql/index.htm" target="blank">
