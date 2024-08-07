@@ -41,11 +41,16 @@
         <img align="left" alt="PHP" width="40px" height="40px" src="Icons/PHP.png" title="PHP" />
     </a>  
     <!--PHP Frameworks-->
-    <a href="https://symfony.com/" target="blank">
-        <img align="left" alt="Symfony" width="40px" height="40px" src="Icons/Symfony.png" title="Symfony" />
-    </a>  
     <a href="https://codeigniter.com/" target="blank">
         <img align="left" alt="CodeIgniter" width="40px" height="40px" src="Icons/CodeIgniter.png" title="CodeIgniter" />
+    </a>
+    <!--Symfony Frameworks-->
+    <a href="https://symfony.com/" target="blank">
+        <img align="left" alt="Symfony" width="40px" height="40px" src="Icons/Symfony.png" title="Symfony" />
+    </a>
+    <!--Laravel Frameworks-->  
+    <a href="https://laravel.com/" target="blank">
+        <img align="left" alt="Laravel" width="40px" height="40px" src="Icons/Laravel.png" title="Laravel" />
     </a>  
 <br></br>
 
